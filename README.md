@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Dudi-kreis
-- 🌱 I’m currently learning Computer Science
+- 🌱 I’m currently Computer Science student and work as a Full-stack developer at Wetake R&D israel.
 
 <!---
 Dudi-kreis/Dudi-kreis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
